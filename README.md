@@ -20,6 +20,8 @@ Create Storyline and how they interperate the story. (Bryan)
 
 Create Art Styles (Kendal)
 
+Interperate Camera contorls
+
 Game created through Unity game engine 
 
 
