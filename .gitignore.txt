@@ -1,0 +1,8 @@
+# =============== #
+# Unity generated #
+# =============== #
+New Unity Project/Temp/Library/PackageCache/*
+New Unity Project/
+New Unity Project/Obj/
+New Unity Project/UnityGenerated/
+
