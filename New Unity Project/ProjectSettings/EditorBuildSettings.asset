@@ -4,5 +4,11 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Titile.unity
+    guid: a80be771b9fddc44aa3daa996d4a9dba
+  - enabled: 1
+    path: Assets/Scenes/ToborWorld.unity
+    guid: 20fd96a1788a6c34385275e9cf9920bc
   m_configObjects: {}

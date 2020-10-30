@@ -55,6 +55,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Scenes\TitleScript\TitleScript.cs" />
      <Compile Include="Assets\ThirdPersonMovementScript.cs" />
      <None Include="Assets\Scenes\OutDoor\Bench\Read Me.txt" />
      <None Include="Assets\Scenes\OutdoorStuff\Bench\Read Me.txt" />
