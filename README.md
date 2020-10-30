@@ -24,4 +24,7 @@ Interperate Camera contorls
 
 Game created through Unity game engine 
 
+Itch.io Usernames:
+-Dillon: Picklemustadr
+
 
