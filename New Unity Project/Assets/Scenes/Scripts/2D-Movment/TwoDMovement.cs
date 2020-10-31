@@ -4,8 +4,11 @@ using System.Collections.Generic;
 using TMPro;
 using UnityEngine;
 using UnityEngine.UI;
+using UnityEngine.SceneManagement;
 
 public class TwoDMovement : MonoBehaviour {
+
+    public string newGameScene;
 
     enum moves {
         None,
@@ -53,6 +56,12 @@ public class TwoDMovement : MonoBehaviour {
 
     // Update is called once per frame
     void Update ( ) {
+
+if(Input.GetKeyDown(KeyCode.Escape))
+     {
+        SceneManager.LoadScene(newGameScene);
+     }
+
         if ( !cancelSameMove ) {
 
             if ( Input.GetKeyDown ( moveUp ) ) {

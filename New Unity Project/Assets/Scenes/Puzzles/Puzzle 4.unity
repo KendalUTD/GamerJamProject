@@ -6299,6 +6299,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6e363bc8d31d33541a225c05b83b01ec, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  returnTitle: MiniGameScreen
   EndGame: {fileID: 734526050}
 --- !u!61 &1196190554
 BoxCollider2D:
@@ -7440,6 +7441,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: db101ce444fbd224d9aa05aed85a6850, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  newGameScene: MiniGameScreen
   speed: 1
   Up: {fileID: 6428132745250353834, guid: 0b5c3870ac8b608428245c3993499d65, type: 3}
   Down: {fileID: -7261902038269698279, guid: 8b1f3a7b2a5cfde4297ec0a25357c646, type: 3}

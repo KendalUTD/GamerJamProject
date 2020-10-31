@@ -3,9 +3,11 @@ using System.Collections.Generic;
 using TMPro;
 using UnityEngine;
 using UnityEngine.UI;
+using UnityEngine.SceneManagement;
 
 public class flag : MonoBehaviour
 {
+    public string returnTitle;
     public TextMeshProUGUI EndGame;
     // Start is called before the first frame update
     void Start()
@@ -25,7 +27,7 @@ public class flag : MonoBehaviour
         {
             Debug.Log("YATA!!!");
             EndGame.enabled = true;
-            Application.Quit();
+            SceneManager.LoadScene(returnTitle);
             //Exit game
         }
     }
