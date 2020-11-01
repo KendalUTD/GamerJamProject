@@ -6,26 +6,27 @@ HackUTD GameJam 2020
 
 Summary:
 
-The Game will have riddles to navigate tobor to spotsin rooms and find the end goal treasure. The player would need to position themselfs on a specific spot in order to active riddle and navigate to the specific spot. Once the game is completed, the user will recieve a golden skin for tobor.
+Explore around the UTD campus as everyone's favorite robot, Tobor, or play a few puzzle games! This game was created through the Unity game engine and submitted to the HackUTD GameJam. Click [here](https://itch.io/jam/hackutd-game-jam/entries) to explore all game entries from the GameJam or keep reading to play this game!
 
-TASK:
+## Installation
+Visit [here](https://itch.io/jam/hackutd-game-jam/rate/805610) to access game download and more info about Tobor's Treasure Hunt.
 
-Create a environment ( Mason )
+To run:
+*Download zip file of the game
+*Right click file and find preferred zip program(7-zip, WinZip, WinRAR, etc.)
+*Extract all files into preferred designation
+*Run the game from the folder
 
-Create Tobor model, movement, and some of the puzzle creation (Nam)
+Disclaimer: The game is only compatible on Windows
 
-Create Riddles and settings of riddles. (Dillon)
 
-Create Storyline and how they interperate the story. (Bryan)
 
-Create Art Styles (Kendal)
 
-Interperate Camera contorls
-
-Game created through Unity game engine 
 
 Itch.io Usernames:
+-Brian: bn161641
 -Dillon: Picklemustadr
+-Kendal: KendalW
 -Mason: masme
-
+-Nam: JollyBears
 
