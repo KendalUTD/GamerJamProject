@@ -23,7 +23,7 @@ Disclaimer: The game is only compatible on Windows
 
 
 
-Itch.io Usernames:
+### Itch.io Usernames:
 - Brian: bn161641
 - Dillon: Picklemustadr
 - Kendal: KendalW
