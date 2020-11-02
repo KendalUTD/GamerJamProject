@@ -1,8 +1,7 @@
-# GamerJamProject
-HackUTD GameJam 2020
--
+# HackUTD GameJam 2020
 
--TOBOR TEASURE HUNT-
+
+*-TOBOR'S TREASURE HUNT-*
 
 Summary:
 
@@ -19,8 +18,8 @@ To run:
 
 Disclaimer: The game is only compatible on Windows
 
-
-
+<br />
+<br />
 
 
 ### Itch.io Usernames:
