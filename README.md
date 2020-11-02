@@ -12,7 +12,7 @@ Visit [here](https://itch.io/jam/hackutd-game-jam/rate/805610) to access game do
 
 To run:
 * Download zip file of the game
-* Right click file and find preferred zip program(7-zip, WinZip, WinRAR, etc.)
+* Right click folder and find preferred zip program(7-zip, WinZip, WinRAR, etc.)
 * Extract all files into preferred designation
 * Run the game from the folder
 
