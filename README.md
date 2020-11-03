@@ -1,14 +1,14 @@
 # HackUTD GameJam 2020
 
 
-*-TOBOR'S TREASURE HUNT-*
+*-TOBOR'S TREASURE TROPH-*
 
 Summary:
 
 Explore around the UTD campus as everyone's favorite robot, Tobor, or play a few puzzle games! This game was created through the Unity game engine and submitted to the HackUTD GameJam. Click [here](https://itch.io/jam/hackutd-game-jam/entries) to explore all game entries from the GameJam or keep reading to play this game!
 
 ## Installation
-Visit [here](https://itch.io/jam/hackutd-game-jam/rate/805610) to access game download and more info about Tobor's Treasure Hunt.
+Visit [here](https://itch.io/jam/hackutd-game-jam/rate/805610) to access game download and more info about Tobor's Treasure Troph.
 
 To run:
 * Download zip file of the game
